@@ -1,3 +1,3 @@
 # Pong Project
 
-###Learning how to use turtle module in python
+Learning how to use turtle module in python
