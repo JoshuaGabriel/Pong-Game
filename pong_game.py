@@ -1,6 +1,4 @@
 
-
-
 import turtle
 window=turtle.Screen() # creates a screen
 window.title("Pong Project") # title of screen window
